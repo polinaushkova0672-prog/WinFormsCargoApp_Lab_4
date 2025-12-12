@@ -1,4 +1,4 @@
-# WinFormsCargoApp
+
 # WinFormsCargoApp
 
 **Приложение для управления грузоперевозками** на платформе Windows Forms с использованием .NET.
